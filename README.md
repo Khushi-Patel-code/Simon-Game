@@ -23,3 +23,6 @@ Simon Game is a fun and interactive memory game where players follow an ever-gro
 - CSS
 - JavaScript (library: jQuery)
 - VS code (Visual Studio Code) as the code editor
+
+## Live Demo
+For a live demo of the game please visit the following site: https://khushi-patel-code.github.io/Simon-Game/ 
