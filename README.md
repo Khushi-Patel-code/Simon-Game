@@ -7,6 +7,7 @@ Simon Game is a fun and interactive memory game where players follow an ever-gro
 - Players must click the buttons in the exact order shown.
 - Custom game font enhances the visual appeal and makes the game more relatable for players.
 - The game increases in difficulty with each level.
+- Standard game over screen when the player makes a mistake, with a red screen flash, sound, and animation effect, using jQuery.
 - Game over on an incorrect sequence, with the option to restart.
 
 ## How to Play
